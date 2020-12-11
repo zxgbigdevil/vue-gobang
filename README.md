@@ -1,24 +1,5 @@
-# vue-web3d
+# vue-gobang
 
-## Project setup
-```
-npm install
-```
+create by zxgbigdevil
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+基于 ts+vue 的五子棋网页
